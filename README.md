@@ -1,4 +1,4 @@
-## **INTRODUCTION** ##
+## **项目介绍** ##
 > 一个阅读MyBatis源码而模仿实现的简单ORM框架，实现了个人对MyBatis的常用功能。
 
 主要实现有：
@@ -11,9 +11,6 @@
 -   异常封装
 -   数据源和连接池
 
-
-## **项目架构** ##
-![项目架构]()
 ## **项目结构** ##
 ```
 └── cn
@@ -81,3 +78,10 @@ io包
 Java数据类型与JDBC数据类型的转换（还有别名），类型处理器
 ## **util** ##
 工具类包
+
+
+##  **联系我们** ##
+- Email : xianyijun0@gmail.com
+
+- Github : https://github.com/xianyijun
+
